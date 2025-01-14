@@ -1,0 +1,8 @@
+Python Power Up: Automação de Tarefas | Jornada Python [Aula 1]
+
+'lógica do código'
+passo 01: abrir o sistema da empresa https://dlp.hashtagtreinamentos.com/python/intensivao/login
+passo 02: fazer login
+passo 03: importar a base de dados dos produtos
+passo 04: cadastrar 01 produto
+passo 05: repetir passo 04 até todos os produtos acabarem
