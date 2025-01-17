@@ -1,0 +1,22 @@
+# Projeto Python Dev: Criação de Sites e Sistemas com Python
+
+### Case: Chat Online
+
+### Passo a Passo
+1. Tela Inicial
+    - título: Angázap
+    - botão: iniciar chat
+        - quando clicar no botão:
+            1. abrir um pop-up
+                1.1 título: bem vindo
+                1.2 caixa de texto: escreva seu nome no chat
+                1.3 botão: entrar no chat
+                    - quando clicar no botão...
+                        - sumir com o título
+                        - sumir com o botão 'iniciar chat'
+                        - carregar o chat
+                        - carregar o campo de enviar mensagem
+                        - botão enviar
+                            - quando clicar em enviar...
+                                - enviar a mensagem
+                                - limpar a caixa de mensagem

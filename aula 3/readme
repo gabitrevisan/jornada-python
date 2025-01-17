@@ -1,0 +1,14 @@
+# Projeto Python IA: Inteligência Artificial e Previsões
+
+### Case: Score de Crédito dos Clientes
+
+Você foi contratado por um banco para conseguir definir o score de crédito dos clientes. Você precisa analisar todos os clientes do banco e, com base nessa análise, criar um modelo que consiga ler as informações do cliente e dizer automaticamente o score de crédito dele: Ruim, Ok, Bom
+
+### Passo a Passo
+1. Entender a empresa e o desafio da empresa
+2. Importar a base de dados
+3. Preparar a base de dados para a Inteligência Artificial
+4. Treinar a Inteligência Artificial
+    - criar o modelo: nota de crédito "boa", "ok", "ruim"
+5. Escolher qual o melhor modelo
+6. Usar o melhor modelo para fazer previsão de novos clientes
